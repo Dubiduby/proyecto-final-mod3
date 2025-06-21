@@ -10,6 +10,7 @@ reverseWord = reverseWord.join("");
 console.log(word === reverseWord);
 
 //versión función
+
 // function isPalindromo() {
 //   let word = prompt("Write a word").toLowerCase();
 //   const regex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ]+$/;
